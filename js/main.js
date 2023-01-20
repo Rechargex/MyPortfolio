@@ -1,4 +1,4 @@
-const navbar = document.getElementById("navbar");
+/* const navbar = document.getElementById("navbar");
 let scrolled = false;
 window.onscroll = function () {
   if (window.pageYOffset > 100) {
@@ -30,3 +30,4 @@ $("#navbar a, .btn").on("click", function (e) {
     );
   }
 });
+ */
