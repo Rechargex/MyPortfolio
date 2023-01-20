@@ -70,6 +70,7 @@ img {
 .btn-dark:hover {
   opacity: 0.8 !important;
 }
+
 .btn-dark {
   background: var(--color-brand) !important;
   border: var(--color-brand) !important;
@@ -87,6 +88,7 @@ img {
   border-bottom: 2px solid rgba(0, 0, 0, 0.088);
   position: relative;
 }
+
 .bg-primary {
   background-color: var(--color-primary);
 }
@@ -102,11 +104,9 @@ img {
 .bg-base {
   background: var(--color-primary);
 }
-
 .bg-base2 {
   background: var(--color-base2);
 }
-
 .bg-base-border {
   border: var(--color-base) solid 1px;
 }
